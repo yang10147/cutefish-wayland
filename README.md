@@ -141,6 +141,7 @@ This project represents a personal continuation and enhancement of Cutefish.
 ### 📝 开发随笔：为什么选择暂停？
 
 因为浪费了我一个多月验证claude的sonnet4.5的工程能力，但是已经可以进入桌面正常使用，剩下的都是修一些小bug的脏活。
+另外我一行代码都看不懂，都是复制粘贴claude给的命令。
 
 ---
 
